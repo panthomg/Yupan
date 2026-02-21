@@ -118,6 +118,6 @@ Yupan is the result of a great collaborative friendship. It wouldn't exist witho
 
 ## 📄 Copyright & License
 
-Yupan is proprietary software. All rights reserved by **TinTools Solutions / Yuta / Itzpanth**. 
+Yupan is proprietary software. All rights reserved by **TinTools Solutions / Itzpanth**. 
 
 This repository is solely for documentation, issue tracking, and community support. The software provided via the web portal is subject to our End User License Agreement (EULA) and Privacy Policy.
